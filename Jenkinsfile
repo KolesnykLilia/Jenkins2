@@ -7,10 +7,5 @@ pipeline {
                 echo 'russian battle ship go guck yourself!'
             }
         }
-        stage('Message2') {
-            steps {
-                echo 'Hello'
-           }
-        }
     }
 }
