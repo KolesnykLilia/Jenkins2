@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Message1') {
             steps {
-                echo 'Слава Україні!'
+                echo 'Слава Україні!!!'
             }
         }
     }
